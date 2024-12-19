@@ -1,0 +1,3 @@
+$ docker run -it devopsdockeruh/pull_exercise
+
+I couldn't finish this exercise because the image page on dockerhub wouldn't load.

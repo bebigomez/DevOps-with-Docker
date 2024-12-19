@@ -1,0 +1,2 @@
+I simply created a Dockerfile with commands that allow me to serve my frontend project. I made sure I was able to run it locally before uploading everything to GitHub. Then, I cloned the same project from GitHub onto my VPS on DigitalOcean and started running the container on the VPS.
+
